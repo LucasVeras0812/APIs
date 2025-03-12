@@ -1,3 +1,24 @@
+"""
+Primeira coisa a fazer é criar um ambiente virtual com o comando:
+
+- python -m venv nome_da_venv
+
+Depois tem que ativar com o comando:
+
+- venv\Scripts\Activate 
+
+para depois começar a instalar o FASTPI e UVICORN com os comandos:
+
+- pip install fastapi
+- pip install uvicorn
+
+depois disso terá que criar o código e digitar o comando:
+
+- uvicorn main(nome do arquivo python):app (nome da variavel do FastAPI) --reload
+
+Ex: uvicorn main:app --reload
+"""
+
 from fastapi import FastAPI
 
 app = FastAPI()
