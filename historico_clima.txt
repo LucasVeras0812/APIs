@@ -1,0 +1,22 @@
+
+🗓 26/05/2025 10:30:37
+☁️ Clima em Florianópolis, BR
+🌡 Temperatura: 22.45°C
+😰 Sensação Térmica: 22.6°C
+💧 Umidade: 71%
+🌬 Vento: 5.66 m/s
+📌 Descrição: Algumas nuvens
+🗓 26/05/2025 10:36:02
+☁️ Clima em Florianópolis, BR
+🌡 Temperatura: 21.77°C
+😰 Sensação Térmica: 21.83°C
+💧 Umidade: 70%
+🌬 Vento: 5.66 m/s
+📌 Descrição: Algumas nuvens
+🗓 26/05/2025 10:36:12
+☁️ Clima em Hong Kong, HK
+🌡 Temperatura: 25.82°C
+😰 Sensação Térmica: 26.34°C
+💧 Umidade: 72%
+🌬 Vento: 3.58 m/s
+📌 Descrição: Nublado
