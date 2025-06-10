@@ -27,5 +27,3 @@ except requests.exceptions.HTTPError as err:
     print("2. O plano gratuito tem um limite de 10 chamadas por minuto")
 except requests.exceptions.RequestException as err:
     print(f"Erro de conexão: {err}")
-
-
