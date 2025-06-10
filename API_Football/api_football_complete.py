@@ -17,7 +17,7 @@ headers = {'X-Auth-Token': API_KEY}
 - Eredivisie (Código: DED)
 - Primeira Liga (Código: PPL)"""
 
-COMPETITION_ID = 'BSA' 
+COMPETITION_ID = 'DED' 
 
 endpoint = f"competitions/{COMPETITION_ID}/standings"
 url = BASE_URL + endpoint
